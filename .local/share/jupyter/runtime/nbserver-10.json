@@ -1,0 +1,11 @@
+{
+  "base_url": "/", 
+  "hostname": "172.17.0.2", 
+  "notebook_dir": "/home/sage", 
+  "password": false, 
+  "pid": 10, 
+  "port": 8888, 
+  "secure": false, 
+  "token": "75a3b6e6a68cf4a61b759b588836e439185dab146b3ee9f5", 
+  "url": "http://172.17.0.2:8888/"
+}

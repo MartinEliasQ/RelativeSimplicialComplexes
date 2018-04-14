@@ -1,0 +1,34 @@
+SAGE_TMP_ROOT = /home/sage/.sage/temp/ca9015dc6bb1
+Starting sage-cleaner with PID 93
+Checking PIDs [18807, 23765, 19094, 18798, 19064, 18796, 18805, 18800, 23718, 19691, 19549, 18802, 19046, 19045, 18955]
+Process 18807 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/18807
+Process 23765 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/23765
+Process 19094 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/19094
+Process 18798 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/18798
+Process 19064 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/19064
+Process 18796 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/18796
+Process 18805 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/18805
+Process 18800 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/18800
+Process 23718 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/23718
+Process 19691 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/19691
+Process 19549 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/19549
+Process 18802 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/18802
+Process 19046 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/19046
+Process 19045 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/19045
+Process 18955 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/ca9015dc6bb1/18955
+Checking PIDs []
